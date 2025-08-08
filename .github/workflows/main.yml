@@ -1,6 +1,1 @@
-git init
-git remote add origin https://github.com/gmtam1234/glossary-trainer.git
-git checkout -b main
-git add .
-git commit -m "Initial PWA deploy"
-git push -u origin main
+git add . && git commit -m "..." && git push origin main
